@@ -3,6 +3,6 @@ int main()
 {
 	char a;
 	printf ("%ld", sizeof(char));
-		/*printf("%ld", sizeof(short));*/
+	/*printf("%ld", sizeof(short));*/
 	return 0;
 }
